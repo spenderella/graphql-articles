@@ -3,7 +3,7 @@
 Examples and schemas for GraphQL article series.
 
 ## Articles
-1. Introduction to GraphQL[ENG](https://tsalnikova.medium.com/introduction-to-graphql-663e211f8190)[RU](https://systems.education/graphql-intro)
+1. Introduction to GraphQL [ENG](https://tsalnikova.medium.com/introduction-to-graphql-663e211f8190) [RU](https://systems.education/graphql-intro)
 2. GraphQL Schemas and Types [RU](https://systems.education/graphql-schema)
 3. GraphQL Architecture [RU](https://systems.education/grapfql-arch)
 
