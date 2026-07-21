@@ -1,15 +1,11 @@
 # GraphQL: From Basics to Architecture
 
-Live examples and schemas for GraphQL article series.
+Examples and schemas for GraphQL article series.
 
 ## Articles
 1. [Introduction to GraphQL](https://systems.education/graphql-intro) (Russian)
 2. [GraphQL Schemas and Types](https://systems.education/graphql-schema) (Russian)
 3. [GraphQL Architecture](https://systems.education/grapfql-arch) (Russian)
-
-## 🚀 Live Examples
-
-- [Basic GraphQL server with examples from articles](https://c2x5lh-3000.csb.app/)(Without subscribes)
 
 ## 🐳 Local Test Server
 
@@ -28,12 +24,6 @@ Ready to copy schemas and queries from articles:
 
 ## How to use
 
-### 🌐 Online (CodeSandbox)
-1. Click the [CodeSandbox link](https://c2x5lh-3000.csb.app/) above
-2. Click “Yes, proceed to preview”, then “Query your server”
-3. Try example queries from `/queries` folder
-4. Experiment with your own queries
-
 ### 🐳 Local (Docker)
 1. Clone this repository:
 ```
@@ -48,4 +38,4 @@ bash
 5. Stop with Ctrl+C,  then cleanup:
 ```docker-compose down```
 
-Local server includes WebSocket subscriptions not available in CodeSandbox!
+Local server includes WebSocket subscriptions.
