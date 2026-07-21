@@ -3,9 +3,9 @@
 Examples and schemas for GraphQL article series.
 
 ## Articles
-1. [Introduction to GraphQL](https://systems.education/graphql-intro) (Russian)
-2. [GraphQL Schemas and Types](https://systems.education/graphql-schema) (Russian)
-3. [GraphQL Architecture](https://systems.education/grapfql-arch) (Russian)
+1. Introduction to GraphQL[ENG](https://tsalnikova.medium.com/introduction-to-graphql-663e211f8190)[RU](https://systems.education/graphql-intro)
+2. GraphQL Schemas and Types [RU](https://systems.education/graphql-schema)
+3. GraphQL Architecture [RU](https://systems.education/grapfql-arch)
 
 ## 🐳 Local Test Server
 
